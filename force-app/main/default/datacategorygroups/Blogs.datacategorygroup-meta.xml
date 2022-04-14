@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataCategoryGroup xmlns="http://soap.sforce.com/2006/04/metadata">
+    <active>true</active>
+    <dataCategory>
+        <dataCategory>
+            <label>Volunteer</label>
+            <name>volunteer</name>
+        </dataCategory>
+        <dataCategory>
+            <label>Tech</label>
+            <name>tech</name>
+        </dataCategory>
+        <dataCategory>
+            <label>Business</label>
+            <name>business</name>
+        </dataCategory>
+        <dataCategory>
+            <label>Regulatory</label>
+            <name>regulatory</name>
+        </dataCategory>
+        <dataCategory>
+            <label>Environment</label>
+            <name>environment</name>
+        </dataCategory>
+        <dataCategory>
+            <label>Wellbeing</label>
+            <name>wellbeing</name>
+        </dataCategory>
+        <label>All</label>
+        <name>All</name>
+    </dataCategory>
+    <label>Blogs</label>
+    <objectUsage>
+        <object>KnowledgeArticleVersion</object>
+    </objectUsage>
+</DataCategoryGroup>
